@@ -58,6 +58,8 @@ new_Hitters$log_of_Salary <- log(new_Hitters$Salary)
 - **Full Tree**: Low MSE but prone to overfitting.
 - **Pruned Tree**: Higher MSE, but better generalization.
 
+<img width="473" alt="Screenshot 2024-08-29 175519" src="https://github.com/user-attachments/assets/619bf7fd-f19f-4287-a5a3-465da87b3cde"> <img width="537" alt="Screenshot 2024-08-29 175442" src="https://github.com/user-attachments/assets/109ffef9-2855-42a4-94e3-f833f5dd9090">
+
 ### B) Bagging 🌳🌳🌳
 - **Misclassification Rate**: 0.2115
 - **Improves Overfitting**: Bagging averages predictions to reduce variance.
@@ -81,6 +83,9 @@ fit <- gbm(High ~ ., data = train, n.trees = 1000, shrinkage = 0.1, interaction.
 ## Results & Recommendations 🎯💬
 
 ### Results:
+
+<img width="506" alt="Screenshot 2024-08-29 175551" src="https://github.com/user-attachments/assets/473c53f1-f439-4854-8e00-548e470d7783">
+
 | Technique          | Outcome                                               |
 |--------------------|-------------------------------------------------------|
 | **CART Pruned Tree** | Balance between interpretability and accuracy.        |
