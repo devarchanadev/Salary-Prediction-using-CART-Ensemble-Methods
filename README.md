@@ -1,7 +1,7 @@
 # Salary Prediction Using CART & ENSEMBLE METHODS 💼📊
 
-![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github) ![Download](https://img.shields.io/badge/Download-Dataset-green?style=for-the-badge&logo=databricks)
-
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Salary-Prediction-using-CART-Ensemble-Methods)
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-green?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/)
 ---
 
 [![Jump to Overview](https://img.shields.io/badge/Jump%20to-Overview-orange)](#project-overview-) 
